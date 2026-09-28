@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\trist\Downloads\RenderTexture (4)\RenderTexture\RenderTexture.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\trist\Downloads\RenderTexture (4)\RenderTexture\LightModel_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\trist\Downloads\RenderTexture (4)\RenderTexture\LightModel_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\trist\Downloads\RenderTexture (4)\RenderTexture\PixelLighting_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\trist\Downloads\RenderTexture (4)\RenderTexture\PixelLighting_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\trist\Downloads\RenderTexture (4)\RenderTexture\TvPixelLighting_ps.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

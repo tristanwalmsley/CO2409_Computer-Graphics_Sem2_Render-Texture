@@ -1,0 +1,3 @@
+﻿  Scene.cpp
+C:\Users\trist\Downloads\RenderTexture (4)\RenderTexture\Scene.cpp(350,34): warning C4305: 'argument': truncation from 'double' to 'const float'
+  RenderTexture.vcxproj -> C:\Users\trist\Downloads\RenderTexture (4)\RenderTexture\RenderTexture.exe
